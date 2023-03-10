@@ -1,0 +1,7 @@
+name: Sunshine
+version: 1.0
+main: de.yami.sunshine.main.Main
+
+commands:
+   sunshine:
+      description: Laesst es fuer immer Tag sein

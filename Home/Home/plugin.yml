@@ -1,0 +1,13 @@
+name: Home
+version: 1.2
+main: de.yami.home.main.Main
+
+commands:
+   sethome:
+      description: Setzt einen Home Punkt
+   home:
+      description: Teleportiert dich zu einem Home Punkt.
+   showhome:
+      description: Zeigt die Koordinaten deiner Home Punkte.
+   deletehome:
+      description: Loescht den genannten Home Punkt.

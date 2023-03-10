@@ -1,0 +1,9 @@
+name: Messenger
+version: 1.1
+main: de.yami.messenger.main.Main
+
+commands:
+   setnews:
+      description: Setzt die Einlog Nachricht
+   seen:
+      description: Bestimmt ob News angezeigt werden oder nicht.
